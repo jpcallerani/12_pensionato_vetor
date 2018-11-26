@@ -69,5 +69,6 @@ public class exercicio12 {
 			System.out.println("O estudante " + estudante.getNome() + " com e-mail " + estudante.getEmail());
 			System.out.println("alugou o quarto " + estudante.getQuarto().getNumeroQuarto());
 		}
+		System.out.println("");
 	}
 }
